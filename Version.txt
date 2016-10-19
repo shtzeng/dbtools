@@ -1,0 +1,9 @@
+Version 1.0.2
+Check if db.json exist and continue work
+Remove only dump eninge=innodb table
+
+Version 1.0.1
+Auto Collection Changes And Sync To Git
+
+Version 1.0.0
+First version

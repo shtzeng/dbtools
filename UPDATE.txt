@@ -1,0 +1,9 @@
+20161007
+Check if db.json exist and continue work
+Remove only dump eninge=innodb table
+
+20160621
+Add auto-update function
+
+20160621
+First Release
